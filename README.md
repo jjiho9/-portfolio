@@ -1,16 +1,15 @@
 # 최지호 포트폴리오
-> 새로운 도전을 통해 
-2
+> 새로운 도전을 통해 새로운 것을 배워나가는 것을 즐기며 한 단계씩 발전해나가는 스스로의 모습을 보며 성장해나가는 성장형 개발자입니다.
 </br>
 
 ## :pushpin: Intro
 안녕하세요 스마트인재 개발원에서 언어지능지능 기반 개발자 과정 1040시간 과정을 수강하고 백엔드 개발자를 희망하는 최지호입니다.
-Python, JAVA, Spring, Spring Boot, HTML, CSS,  JavaScript 등의 개발 기술과
-Mysql, Oracle 을 활용한 JDBC 관리
-Crawling 을 활용한 데이터 관리 및 데이터 정제
-sklearn 라이브러리를 활용한 MachineLearning 기술
-keras를 활용한 DeepLearning 모델 개발
-PyTorch를 활용한 DeepLearning 모델 개발 경험을 보유하고 있습니다.
+- Python, JAVA, Spring, Spring Boot, HTML, CSS,  JavaScript 등의 개발 기술과
+- Mysql, Oracle 을 활용한 JDBC 관리
+- Crawling 을 활용한 데이터 관리 및 데이터 정제
+- sklearn 라이브러리를 활용한 MachineLearning 기술
+- keras를 활용한 DeepLearning 모델 개발
+- PyTorch를 활용한 DeepLearning 모델 개발 경험을 보유하고 있습니다.
 
 </br>
 
