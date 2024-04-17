@@ -16,11 +16,12 @@
 
 ## :pushpin: 기술 스택
 > Back-end
-- 깃헙: https://github.com/jjiho9
+- ![image](https://github.com/jjiho9/-portfolio/assets/148534094/65a2ca28-97d1-4953-b230-29dfd7e7a23d)
+- ![image](https://github.com/jjiho9/-portfolio/assets/148534094/61804d83-0c95-4708-81a9-e2232724cb1d)
 
 </br>
-(![image](![image](https://github.com/jjiho9/-portfolio/assets/148534094/92991de0-c9a9-4a42-a883-e5e0ec8a710b)
-)
+
+
 
 
 
