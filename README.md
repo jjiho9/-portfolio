@@ -81,7 +81,7 @@
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
 
 
-### 1. [두번째 프로젝트]
+### 2. [두번째 프로젝트](https://github.com/illhanunjung/ReadFit-frontend)
 > 신발 리뷰 분석 플랫폼 (팀 프로젝트)
 - 신발 리뷰를 키워드 분석 모델과 감정 분석 모델을 활용 하여 분석 후 대시보드 형태로 제공해주는 서비스
   - 신발 분석 데이터 제공 기능
@@ -150,6 +150,7 @@
       - Selenium 라이브러리 활용 데이터 크롤링 및 데이터 모델링 과정 진행
       - Tensorflow 활용한 RNN, CNN계열 모델 개발
       - Pytorch를 활용하여 Huggingface 커뮤니티 내 Transformer 모델 Kc-electra, Ko-electra 모델 활용 프로젝트 진행
+- 전남대학교 조경학과 졸업 2017.03~ 2023.08
 
 
 
