@@ -1,5 +1,5 @@
 # 새로운 도전을 통해 한 단계씩 발전해나가는 성장형 개발자 최지호
-> 도전하고 실패하는 사람이 도전도 하지 못하는 사람보다 훌륭하다고 생각하는 개발자입니다. 프로젝트를 진행하는 중 막히는 부분이 있으면 다양한 방법을 시도해보며 도전해보는것이 제 강점입니다.
+>  다양한 방법을 시도하며 막히는 부분을 극복하는 것이 제 강점이며, 팀 프로젝트에서는 협업과 소통을 최우선 가치로 삼아온 저는 도전과 실패를 두려워하지 않는 개발자 최지호입니다.
 </br>
 
 ## :pushpin: Intro
@@ -27,19 +27,20 @@
 >  
 >기술 스택:
 > Backend
-Java 11
-Spring
-MySQL 5.1
-Python 3.9
-Apache Tomcat 8.5
-Maven
-WebSocket
-FullCalendar API
-KAKAO MAP API
+- Java 11
+- Spring
+- MySQL 5.1
+- Python 3.9
+- Apache Tomcat 8.5
+- Maven
+- WebSocket
+> API
+- FullCalendar API
+- KAKAO MAP API
 > Front-end
-JavaScript
-Html
-Css
+- JavaScript
+- Html
+- Css
   
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
