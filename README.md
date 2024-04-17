@@ -27,7 +27,6 @@
 > 
 </br>
 >기술 스택:
-</br>
 > Backend
 - Java 11
 - Spring
