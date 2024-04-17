@@ -16,19 +16,19 @@
 
 ## :pushpin: 기술 스택
 > Back-end
-![image](https://github.com/jjiho9/-portfolio/assets/148534094/0702bcdd-6926-4679-bf96-30490c94226c)
+ - ![image](https://github.com/jjiho9/-portfolio/assets/148534094/0702bcdd-6926-4679-bf96-30490c94226c)
 
 > Front-end
-![image](https://github.com/jjiho9/-portfolio/assets/148534094/c0592fef-dba1-465d-81ff-b9ed955342e5)
+ - ![image](https://github.com/jjiho9/-portfolio/assets/148534094/c0592fef-dba1-465d-81ff-b9ed955342e5)
 
 > DataBase
-![image](https://github.com/jjiho9/-portfolio/assets/148534094/9ad616f2-76e3-4a7d-a542-814eee7b7b02)
+ - ![image](https://github.com/jjiho9/-portfolio/assets/148534094/9ad616f2-76e3-4a7d-a542-814eee7b7b02)
 
 > Machine Learning
-![image](https://github.com/jjiho9/-portfolio/assets/148534094/c41738ca-54de-4e46-a24e-334bd3a22309)
+ - ![image](https://github.com/jjiho9/-portfolio/assets/148534094/c41738ca-54de-4e46-a24e-334bd3a22309)
 
 > Deep Learning
-![image](https://github.com/jjiho9/-portfolio/assets/148534094/bd3f8a6e-b09c-4f30-bc4b-f2b6051bebef)
+ - ![image](https://github.com/jjiho9/-portfolio/assets/148534094/bd3f8a6e-b09c-4f30-bc4b-f2b6051bebef)
 
 
 
