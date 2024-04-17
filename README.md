@@ -24,8 +24,10 @@
 ### 1. [첫번째 프로젝트](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
 > 여행 친구찾기 플랫폼 프로젝트 (팀 프로젝트)  
 >개발 기간: 2023.12.20 ~ 2024.01.25  
->  
+> 
+</br>
 >기술 스택:
+</br>
 > Backend
 - Java 11
 - Spring
