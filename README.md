@@ -16,8 +16,12 @@
 
 ## :pushpin: 기술 스택
 > Back-end
-- ![image](https://github.com/jjiho9/-portfolio/assets/148534094/65a2ca28-97d1-4953-b230-29dfd7e7a23d)
-- ![image](https://github.com/jjiho9/-portfolio/assets/148534094/61804d83-0c95-4708-81a9-e2232724cb1d)
+- ![image](https://github.com/jjiho9/-portfolio/assets/148534094/0702bcdd-6926-4679-bf96-30490c94226c)
+
+> Front-end
+- ![image](https://github.com/jjiho9/-portfolio/assets/148534094/c0592fef-dba1-465d-81ff-b9ed955342e5)
+
+
 
 </br>
 
