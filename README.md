@@ -19,7 +19,8 @@
 - 깃헙: https://github.com/jjiho9
 
 </br>
-![image](https://github.com/jjiho9/-portfolio/assets/148534094/6c2e6a5a-fff4-4ce3-a0bb-8f60fa26b2f8)
+(![image](![image](https://github.com/jjiho9/-portfolio/assets/148534094/92991de0-c9a9-4a42-a883-e5e0ec8a710b)
+)
 
 
 
