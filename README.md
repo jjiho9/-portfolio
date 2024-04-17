@@ -47,9 +47,13 @@
 
 ## :pushpin: Projects
 ### 1. [첫번째 프로젝트](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
-> 여행 친구찾기 플랫폼 프로젝트 (팀 프로젝트)  
+> 여행 친구찾기 플랫폼 (팀 프로젝트)
+- 사용자 성향 조사를 통한 여행 동행자 추천 서비스
+- 동행자 모집 기능
+- 커뮤니티 기능
+- 채팅 기능
 >개발 기간: 2023.12.20 ~ 2024.01.25  
-> 
+>
 > 기술 스택:
 > Backend
 - Java 11
@@ -66,9 +70,10 @@
 - JavaScript
 - Html
 - Css
-  
->[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
-\
+
+> My Role
+- 사용자 성향 설문조사
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/WithusRepo) 참고
 
 
