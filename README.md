@@ -14,6 +14,15 @@
 
 </br>
 
+## :pushpin: 기술 스택
+> Back-end
+- 깃헙: https://github.com/jjiho9
+
+</br>
+![image](https://github.com/jjiho9/-portfolio/assets/148534094/6c2e6a5a-fff4-4ce3-a0bb-8f60fa26b2f8)
+
+
+
 ## :pushpin: Contact
 - 이메일: poa1189@gmail.com
 - 깃헙: https://github.com/jjiho9
